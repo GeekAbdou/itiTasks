@@ -1,10 +1,12 @@
+html {
+    scroll-behavior: smooth;
+  }
 body {
     padding: 0;
     margin: 0;
     font-family: Verdana, sans-serif;
     font-size: 15px;
     line-height: 1.5;
-    height: 3000px;
 
 }
 
@@ -40,7 +42,14 @@ nav ul li {
 .brand {
     padding: 8px 16px;
 }
-
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    
+}
+nav ul li a:visited {
+    color: black;
+  }
 
 
 header {
@@ -80,6 +89,7 @@ header .img-brand .BR {
     font-size: 24px;
     border-bottom: 1px solid #ccc;
     border-color: #f1f1f1;
+    scroll-behavior: smooth;
 }
 
 .grid-container .projects__grid {
