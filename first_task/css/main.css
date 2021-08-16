@@ -151,3 +151,62 @@ header .img-brand .BR {
     white-space: nowrap;
     font-size: 16px;
 }
+
+
+.grid-container .contact__form input {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    margin: 16px 0px;
+    border: 1px solid #ccc;
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.grid-container .contact__form button {
+    color: #fff !important;
+    background-color: #000 !important;
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.grid-container .contact__form button {
+    color: #fff !important;
+    background-color: #000 !important;
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+}
+
+
+.grid-container .contact__map {
+    padding: 48px 0px 8px 0px
+}
+
+
+footer {
+    text-align: center;
+    padding: 32px;
+    color: #fff;
+    background-color: #000;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size:16px;
+    font-weight: 400;
+}
